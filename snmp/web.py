@@ -6,12 +6,12 @@ content="""
 <title>device description</title>
 </head>
 <body>
-<h2 align="center">Device decription-25016458</h2>
-<table border="5">
-<tr>
+<h2 align="center">Device specification-(N.Gowsalya)</h2>
+<table border="3">
+<tr bgcolor="lightgreen">
 <th>S.NO</th>
 <th>Device specification</th>
-<th>description</th>
+<th>Type</th>
 </tr>
 <tr>
 <td>1</td>
